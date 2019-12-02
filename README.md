@@ -1,4 +1,4 @@
-# testing-with-Jest
+# testing-with-jest
 
 ## User story:
 Pracovník telefonickej podpory eshopu vidí v administračnom systéme popri notifikácii prichádzajúceho hovoru aj informáciu o ktorú objednávku sa jedná, aby si ju vedel pred prijatím hovoru otvoriť kliknutím na link v notifikácii.
